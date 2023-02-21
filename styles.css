@@ -5,5 +5,5 @@
 }
 .holder{
 	display:grid;
-	grid-template-columns:2fr 1fr;
+	grid-template-columns:100px 100px;
 }
